@@ -10,4 +10,9 @@
 ```
 tw.yahoo.com
 ```
+```xml
+<int>
+dasdas
+</int>
+```
 * yahoo:````tw.yahoo.com````
