@@ -6,7 +6,7 @@
 
 * yahoo:`tw.yahoo.com`
 * yahoo:``tw.yahoo.com``
-* yahoo:[yahoo](tw.yahoo.com)
+* yahoo:[yahoo](https://tw.yahoo.com/)
 ```
 tw.yahoo.com
 ```
