@@ -40,3 +40,9 @@ dasdas
                         </div>
                     </div>
 ```
+## Python pip install tutorial
+
+```sh
+$ pip install 
+```
+
